@@ -470,7 +470,7 @@ span.drop-trigger {
 }
 
 .hero-home {
-    background-image: url(/images/hero.jpg);
+    background-image: url(./images/hero.jpg);
     background-position: center top;
 }
 
