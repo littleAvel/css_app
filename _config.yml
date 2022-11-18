@@ -1,8 +1,8 @@
 # Jekyll Configuration
 
 # Site Settings
-url: "https://littleavel.github.io/"
-website_url: "https://littleavel.github.io/"
-title: "CSS"
+url: "https://littleavel.github.io/css_app/"
+website_url: "https://littleavel.github.io/css_app/"
+title: CSS
 email: little.avel@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
